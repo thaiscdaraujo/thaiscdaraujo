@@ -3,7 +3,7 @@
 #### <p align=center>My name is Thaís Carvalho and I'm a FullStack dev. student</p>
 
 <p align=left><br>I've always loved discovering and learning new things,
-<img align=right src="http://svgur.com/i/aA5.svg" width="353" height="305" alt="coffee with glasses and a </> sign">
+<img align=right src="https://i.imgur.com/pkVQLw5.png" alt="coffee with glasses and a </> sign">
 <br>which made me fall in love with the IT area and all
 <br>of its potential to make awesome ideas come to life!
 <br><br>Currently I'm focusing my studies on Front-End
