@@ -1,6 +1,6 @@
 ## <p align=center>Hello, world :sparkles:</p>
 
-#### <p align=center>My name is Thaís Carvalho and I'm a FullStack dev. student</p>
+#### <p align=center>My name is Thaís Araujo and I'm a FullStack dev. student</p>
 
 <p align=left><br>I've always loved discovering and learning new things,
 <img align=right src="https://i.imgur.com/pkVQLw5.png" alt="coffee with glasses and a </> sign">
