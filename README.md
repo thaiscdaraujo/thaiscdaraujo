@@ -34,10 +34,10 @@
 ##
 
 <br><a href="https://github.com/thais95/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=thais95&count_private=true&show_icons=true&theme=gotham&border_color=000000&include_all_commits=true&hide_rank=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thais95&count_private=true&show_icons=true&theme=gotham&border_color=000001&include_all_commits=true&hide_rank=true" />
 </a>
 <a href="https://github.com/thais95/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thais95&theme=gotham&border_color=000000" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thais95&theme=gotham&border_color=000001" />
 </a>
 
 ##
