@@ -4,8 +4,8 @@
 
 <p align=left><br>I've always loved discovering and learning new things, 
 <img align=right src="https://i.imgur.com/pkVQLw5.png" alt="coffee with glasses and a </> sign">
-<br>which made me fall in love with the IT area and all 
-<br>of its potential to make awesome ideas come to life!
+<br>which made me fall in love with the IT area and all of 
+<br>its potential to make awesome ideas come to life!
 <br><br>Enrolled in college (ADS/System Analysis), 
 <br>besides that, I'm currently focusing my studies 
 <br>on Front-End and I'm also interested in UI/UX.</p>
