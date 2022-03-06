@@ -2,13 +2,13 @@
 
 #### <p align=center>My name is Thaís Araujo and I'm a Front-End dev.</p>
 
-<p align=left><br>I've always loved discovering and learning new things,
+<p align=left><br>I've always loved discovering and learning new things, 
 <img align=right src="https://i.imgur.com/pkVQLw5.png" alt="coffee with glasses and a </> sign">
-<br>which made me fall in love with the IT area and all
+<br>which made me fall in love with the IT area and all 
 <br>of its potential to make awesome ideas come to life!
-<br><br>Enrolled in college (ADS/System Analysis),
-<br>besides that, I'm currently focusing my studies on
-<br>Front-End and I'm also interested in UI/UX.</p>
+<br><br>Enrolled in college (ADS/System Analysis), 
+<br>besides that, I'm currently focusing my studies 
+<br>on Front-End and I'm also interested in UI/UX.</p>
 
 ##
 
