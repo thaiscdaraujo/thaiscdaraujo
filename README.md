@@ -1,13 +1,14 @@
 ## <p align=center>Hello, world :sparkles:</p>
 
-#### <p align=center>My name is Thaís Araujo and I'm a FullStack dev. student</p>
+#### <p align=center>My name is Thaís Araujo and I'm a Front-End dev.</p>
 
 <p align=left><br>I've always loved discovering and learning new things,
 <img align=right src="https://i.imgur.com/pkVQLw5.png" alt="coffee with glasses and a </> sign">
 <br>which made me fall in love with the IT area and all
 <br>of its potential to make awesome ideas come to life!
-<br><br>Currently I'm focusing my studies on Front-End
-<br>and I'm interested in UI/UX as well.</p>
+<br><br>Enrolled in college (ADS/System Analysis),
+<br>besides that, I'm currently focusing my studies on
+<br>Front-End and I'm also interested in UI/UX.</p>
 
 ##
 
@@ -17,17 +18,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="4%" title="JavaScript" alt="JavaScript" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="4%" title="Figma" alt="Figma" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="4%" title="Bootstrap" alt="Bootstrap" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="4%" title="Git" alt="Git" />&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1024px-DBeaver_logo.svg.png" width="4%" title="DBeaver" alt="DBeaver" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="4%" title="MySQL" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="4%" title="Git" alt="Git" />
 <br>
 ### 💡 Interest
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="4%" title="React JS" alt="React JS" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="4%" title="jQuery" alt="jQuery" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="4%" title="Next JS" alt="Next JS" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="4%" title="Typescript" alt="Typescript" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="4%" title="Sass" alt="Sass" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="4%" title="Node.js" alt="Node.js" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="4%" title="GitHub" alt="GitHub" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="4%" title="MongoDB" alt="MongoDB" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="4%" title="Firebase" alt="Firebase" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="4%" title="Linux" alt="Linux" />
 
