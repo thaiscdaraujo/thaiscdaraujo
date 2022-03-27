@@ -1,14 +1,15 @@
 ## <p align=center>Hello, world :sparkles:</p>
 
-#### <p align=center>My name is Thaís Araujo and I'm a Front-End dev.</p>
+#### <p align=center>My name is Thaís Araujo and I'm a Front-end developer</p>
 
 <p align=left><br>I've always loved discovering and learning new things, 
-<img align=right src="https://i.imgur.com/pkVQLw5.png" alt="coffee with glasses and a </> sign">
 <br>which made me fall in love with the IT area and all of 
-<br>its potential to make awesome ideas come to life!
-<br><br>Enrolled in college (ADS/System Analysis), 
+<br>its potential to make awesome ideas come to life! 
+<br><img align=right src="https://i.imgur.com/pkVQLw5.png" alt="coffee with glasses and a </> sign">
+<br>Enrolled in college (ADS/System Analysis), 
 <br>besides that, I'm currently focusing my studies 
-<br>on Front-End and I'm also interested in UI/UX.</p>
+<br>on Front-end and UI design, also interested in UX.
+<br><br><a href="https://thaisaraujo.vercel.app/" target=”_blank”><img src="https://img.shields.io/badge/%E2%99%A1-Portfolio-%2300684c?style=plastic" /></a></p>
 
 ##
 
@@ -41,6 +42,7 @@
 
 ### <div>💬 Contacts
 
-<a href="https://www.linkedin.com/in/thaiscarvalhodearaujo/" target=”_blank”><img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border=5"></a>&nbsp;
-<a href="mailto:thaiscdaraujo95@gmail.com" target=”_blank”><img align=center src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
-<a href="https://www.instagram.com/thaiscdaraujo/" target=”_blank”><img align=center src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/thaiscarvalhodearaujo/" target=”_blank”><img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic"></a>&nbsp;
+  <a href="https://www.instagram.com/thaiscdaraujo/" target=”_blank”><img align=center src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=shield"></a>&nbsp;
+<a href="mailto:thaiscdaraujo95@gmail.com" target=”_blank”><img align=center src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=shield"></a>&nbsp;
+<a href="https://wa.me/5521993315410" target=”_blank”><img align=center src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&style=shield"></a>
