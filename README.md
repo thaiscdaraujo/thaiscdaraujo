@@ -42,7 +42,7 @@
 
 ### <div>💬 Contacts
 
-<a href="https://www.linkedin.com/in/thaiscarvalhodearaujo/" target=”_blank”><img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic"></a>&nbsp;
+<a href="https://www.linkedin.com/in/thaiscdaraujo/" target=”_blank”><img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic"></a>&nbsp;
   <a href="https://www.instagram.com/thaiscdaraujo/" target=”_blank”><img align=center src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=shield"></a>&nbsp;
 <a href="mailto:thaiscdaraujo95@gmail.com" target=”_blank”><img align=center src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=shield"></a>&nbsp;
 <a href="https://wa.me/5521993315410" target=”_blank”><img align=center src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&style=shield"></a>
