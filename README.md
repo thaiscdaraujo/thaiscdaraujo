@@ -23,6 +23,8 @@
 <br><br>
 ### 🌱 Had contact with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="4%" title="TypeScript" alt="TypeScript" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="4%" title="Jest" alt="Jest" />&nbsp;&nbsp;
+<img src="https://testing-library.com/img/octopus-128x128.png" width="4%" title="React Testing Library" alt="React Testing Library" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="4%" title="Python" alt="Python" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="4%" title="MySQL" alt="MySQL" />
 <br>
@@ -32,7 +34,6 @@
 ### <div>💬 Contact
 
 <a href="https://www.linkedin.com/in/thaiscdaraujo/" target=”_blank”><img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic"></a>&nbsp;
-  <a href="https://www.instagram.com/thaiscdaraujo/" target=”_blank”><img align=center src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=shield"></a>&nbsp;
 <a href="mailto:thaiscdaraujo95@gmail.com" target=”_blank”><img align=center src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=shield"></a>
 
 ##
