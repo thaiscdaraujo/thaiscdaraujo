@@ -16,6 +16,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="4%" title="CSS3" alt="CSS3" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="4%" title="JavaScript" alt="JavaScript" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="4%" title="React JS" alt="React JS" />&nbsp;&nbsp;
+<img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" width="4%" title="Styled Components" alt="Styled Components" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="4%" title="Sass" alt="Sass" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="4%" title="Figma" alt="Figma" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="4%" title="Bootstrap" alt="Bootstrap" />&nbsp;&nbsp;
