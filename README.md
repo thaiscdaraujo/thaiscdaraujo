@@ -2,7 +2,7 @@
 
 #### <p align=center>My name is Thaís Araujo and I'm a Web developer</p>
 
-<p align=left><br>I've always loved discovering and learning new things, 
+<p align=left><br>I've always loved to discover and learn new things, 
 <br>which made me fall in love with the IT area and all of
 <img align=right src="https://i.imgur.com/pkVQLw5.png" alt="coffee with glasses and a </> sign">
 <br>its potential to make awesome ideas come to life! 
