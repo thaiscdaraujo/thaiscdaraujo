@@ -5,7 +5,7 @@
 <p align=left><br>I've always loved to discover and learn new things, 
 <br>which made me fall in love with the IT area and all of
 <img align=right src="https://i.imgur.com/pkVQLw5.png" alt="coffee with glasses and a </> sign">
-<br>its potential to make awesome ideas come to life! 
+<br>its potential to make concepts and ideas come to life! 
 <br>
 <br><br><a href="https://thaisaraujo.vercel.app/" target=”_blank”><img src="https://img.shields.io/badge/%E2%99%A1-Portfolio-%2300684c?style=plastic" /></a></p>
 
