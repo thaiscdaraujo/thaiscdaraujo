@@ -24,6 +24,7 @@
 <br><br>
 ### 🌱 Had contact with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="4%" title="TypeScript" alt="TypeScript" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="4%" title="Redux" alt="Redux" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="4%" title="Jest" alt="Jest" />&nbsp;&nbsp;
 <img src="https://testing-library.com/img/octopus-128x128.png" width="4%" title="React Testing Library" alt="React Testing Library" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="4%" title="Python" alt="Python" />&nbsp;&nbsp;
@@ -43,5 +44,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=thais95&count_private=true&show_icons=true&theme=gotham&border_color=000001&include_all_commits=true&hide_rank=true" />
 </a>
 <a href="https://github.com/thais95/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thais95&theme=gotham&border_color=000001" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thais95&layout=compact&theme=gotham&border_color=000001" />
 </a>
