@@ -34,9 +34,10 @@
 
 ##
 
-### <div>💬 Contact
+### <div>💬 Profiles & Contact
 
 <a href="https://www.linkedin.com/in/thaiscdaraujo/" target=”_blank”><img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic"></a>&nbsp;
+  <a href="https://www.codewars.com/users/thaisc" target=”_blank”><img align=center src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white&style=shield"></a>&nbsp;
 <a href="mailto:thaiscdaraujo95@gmail.com" target=”_blank”><img align=center src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=shield"></a>
 
 ##
