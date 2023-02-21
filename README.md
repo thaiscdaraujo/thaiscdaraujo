@@ -1,6 +1,6 @@
-## <p align=center>Welcome :sparkles:</p>
+### <p align=center>Welcome :sparkles:</p>
 
-#### <p align=center>My name is Thaís Araujo and I'm a Web Developer!</p>
+## <p align=center>My name is Thaís Araujo and I'm a Web Developer!</p>
 
 <p align=left><br>As a developer, I have a passion for creating intuitive interfaces
 <br>and designing websites that prioritize usability and accessibility.
