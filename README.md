@@ -8,6 +8,7 @@
 <br>My goal is to provide clients with an enjoyable online experience that
 <br>simplifies their day-to-day tasks by creating accessible and user-friendly websites.
 <br>
+<br>
 
 ##
 
