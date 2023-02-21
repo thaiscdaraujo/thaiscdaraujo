@@ -2,11 +2,11 @@
 
 #### <p align=center>My name is Thaís Araujo and I'm a Web Developer!</p>
 
-<p align=left><br>As a developer, I have a passion for creating intuitive interfaces and designing
-<br>websites that prioritize usability and accessibility.
+<p align=left><br>As a developer, I have a passion for creating intuitive interfaces
+<br>and designing websites that prioritize usability and accessibility.
 <img align=right src="https://i.imgur.com/pkVQLw5.png" width="280px" heigth="auto" alt="coffee with glasses and a </> sign">
-<br>My goal is to provide clients with an enjoyable website experience that simplifies
-<br>their day-to-day tasks by creating accessible and user-friendly websites.
+<br>My goal is to provide clients with an enjoyable website experience that
+<br>simplifies their day-to-day tasks by creating accessible and user-friendly websites.
 <br>
 
 ##
