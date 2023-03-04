@@ -22,8 +22,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="4%" title="Sass" alt="Sass" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="4%" title="Figma" alt="Figma" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="4%" title="Bootstrap" alt="Bootstrap" />&nbsp;&nbsp;
-<img src="https://bestofjs.org/logos/material-ui.svg" width="4%" title="Material-UI" alt="Material-UI" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="4%" title="Git" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="4%" title="Material-UI" alt="Material-UI" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="4%" title="Git" alt="Git" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="4%" title="npm" alt="npm" />
 <br><br>
 #### 🌱 Had contact with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="4%" title="Vue.js" alt="Vue.js" />&nbsp;&nbsp;
@@ -31,7 +32,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="4%" title="Jest" alt="Jest" />&nbsp;&nbsp;
 <img src="https://testing-library.com/img/octopus-128x128.png" width="4%" title="React Testing Library" alt="React Testing Library" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="4%" title="Python" alt="Python" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="4%" title="MySQL" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="4%" title="MySQL" alt="MySQL" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="4%" title="Adobe XD" alt="Adobe XD" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="4%" title="Yarn" alt="Yarn" />
 <br>
 
 ##
