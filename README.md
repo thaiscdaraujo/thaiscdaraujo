@@ -26,6 +26,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="4%" title="Git" alt="Git" />
 <br><br>
 #### 🌱 Had contact with:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="4%" title="Vue.js" alt="Vue.js" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="4%" title="Redux" alt="Redux" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="4%" title="Jest" alt="Jest" />&nbsp;&nbsp;
 <img src="https://testing-library.com/img/octopus-128x128.png" width="4%" title="React Testing Library" alt="React Testing Library" />&nbsp;&nbsp;
