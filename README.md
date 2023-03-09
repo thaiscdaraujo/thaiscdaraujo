@@ -1,12 +1,12 @@
 ### <p align=center>Welcome :sparkles:</p>
 
-## <p size=22 align=center>I'm Thaís, a Web Developer</p>
+# <p size=22 align=center>I'm Thaís, a Web Developer</p>
 
-<p align="center">As a developer, I have a passion for creating intuitive interfaces
+<h4 align="center">As a developer, I have a passion for creating intuitive interfaces
 <br>and designing websites that prioritize usability and accessibility.
 <br>
 <br>My goal is to provide users with an enjoyable online experience that simplifies
-<br>their day-to-day tasks by creating accessible and user-friendly websites 💜</p>
+<br>their day-to-day tasks by creating accessible and user-friendly websites 💜</h4>
 <br>
 
 <p align="center"><img height="157" width="200" src="https://media.tenor.com/-Fbyl7vqHiYAAAAj/goma-cat.gif" title="Working!" /></p>
