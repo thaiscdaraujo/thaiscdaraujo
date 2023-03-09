@@ -1,6 +1,6 @@
 ### <p align=center>Welcome :sparkles:</p>
 
-# <p size=22 align=center>I'm Thaís, a Web Developer</p>
+## <p size=22 align=center>I'm Thaís, a Web Developer</p>
 
 <p align="center">As a developer, I have a passion for creating intuitive interfaces
 <br>and designing websites that prioritize usability and accessibility.
