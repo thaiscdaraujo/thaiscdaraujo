@@ -21,7 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="4%" title="JavaScript" alt="JavaScript" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="4%" title="TypeScript" alt="TypeScript" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="4%" title="Vue.js" alt="Vue.js" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="4%" title="React JS" alt="React JS" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="4%" title="React" alt="React" />&nbsp;&nbsp;
 <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" width="4%" title="Styled-Components" alt="Styled-Components" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="4%" title="Sass" alt="Sass" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="4%" title="Figma" alt="Figma" />&nbsp;&nbsp;
