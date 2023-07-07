@@ -9,7 +9,7 @@
 <br>their day-to-day tasks by creating accessible and user-friendly websites 💜</h4>
 <br>
 
-<p align="center"><img height="157" width="200" src="https://media.tenor.com/-Fbyl7vqHiYAAAAj/goma-cat.gif" title="Working!" /></p>
+<p align="center"><img height="157" width="200" src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif" title="Working!" /></p>
   
 ##
 
