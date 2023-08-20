@@ -2,8 +2,8 @@
 
 # <p size=22 align=center>I'm Thaís, a Web Developer</p>
 
-<h4 align="center">As a developer, I have a passion for creating intuitive interfaces
-<br>and designing websites that prioritize usability and accessibility.
+<h4 align="center">I have a passion for creating intuitive interfaces and
+<br>designing websites that prioritize usability and accessibility.
 <br>
 <br>My goal is to provide users with an enjoyable online experience that simplifies
 <br>their day-to-day tasks by creating accessible and user-friendly websites 💜</h4>
