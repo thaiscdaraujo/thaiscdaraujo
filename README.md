@@ -2,25 +2,16 @@
 
 <p size=22 align=center>I'm Thaís, a Web Developer</p>
 
-<h4 align="center">
-I have a passion for creating intuitive interfaces and
-<br>
- designing websites that prioritize usability and accessibility.
-<br>
-<br>
-My goal is to provide users with an enjoyable online experience that simplifies
-<br>
-their day-to-day tasks by creating accessible and user-friendly websites 💜</h4>
-<br>
+<div align="center"><p>I have a passion for creating intuitive interfaces and <br> designing websites that prioritize usability and accessibility. <br> <br>My goal is to provide users with an enjoyable online experience that simplifies <br>their day-to-day tasks by creating accessible and user-friendly websites 💜</p></div><br>
 
-<p align="center"><img height="157" width="200" src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif" title="Working!" /></p>
+<div align="center"><img height="157" width="200" src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif" title="Working!" /></div>
 
 <div align="center">
 <br><br>
 ⚜ Worked with
 <br><br>
 front-end:
-<br><br>
+<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="5%" title="HTML5" alt="HTML5" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="5%" title="CSS3" alt="CSS3" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="5%" title="JavaScript" alt="JavaScript" />&nbsp;&nbsp;
@@ -31,19 +22,19 @@ front-end:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="5%" title="Sass" alt="Sass" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="5%" title="Bootstrap" alt="Bootstrap" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="5%" title="Material-UI" alt="Material-UI" />&nbsp;&nbsp;
-<br>
-back-end:
 <br><br>
+back-end:
+<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="5%" title="PHP" alt="PHP" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="5%" title="PostgreSQL" alt="PostgreSQL" />&nbsp;&nbsp;
-<br>
-tools & other:
 <br><br>
+tools & other:
+<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="5%" title="Figma" alt="Figma" />&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" width="5%" title="DBeaver" alt="DBeaver" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="5%" title="GitLab" alt="GitLab" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="5%" title="Git" alt="Git" />
-<br><br>
+<br><br><br>
 🌱 Had contact
 <br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="5%" title="Python" alt="Python" />&nbsp;&nbsp;
