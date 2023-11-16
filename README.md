@@ -1,5 +1,6 @@
 <div align="center">
 <h1>Greetings :sparkles:</h1>
+<br>
 <p>I'm <strong>Thaís</strong>, a Web Developer based in Brazil who's passionate about creating <br> intuitive interfaces and designing websites that focus on both usability and accessibility.</p>
 <p>My professional and personal focus is on enhancing users' online experiences by simplifying <br> their day-to-day tasks through the creation of accessible and user-friendly websites 💜<p>
 <br>
