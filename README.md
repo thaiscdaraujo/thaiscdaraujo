@@ -1,18 +1,17 @@
-<h1 align=center>Greetings :sparkles:</h1>
+<div align="center">
+<h1>Greetings :sparkles:</h1>
 <br>
-<p size=22 align=center>I'm <strong>Thaís</strong>, a Web Developer based in Brazil who's passionate about creating <br> intuitive interfaces and designing websites that focus on both usability and accessibility.</p>
-<div align="center"><p>My professional and personal focus is on enhancing users' online experiences by simplifying <br> their day-to-day tasks through the creation of accessible and user-friendly websites 💜</p></div><br>
-<div align="center"><img height="157" width="200" src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif" title="Working!" /></div>
+<h5>I'm <strong>Thaís</strong>, a Web Developer based in Brazil who's passionate about creating <br> intuitive interfaces and designing websites that focus on both usability and accessibility.</h5>
+<h5>My professional and personal focus is on enhancing users' online experiences by simplifying <br> their day-to-day tasks through the creation of accessible and user-friendly websites 💜</h5>
+<br>
+<div><img height="157" width="200" src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif" title="Working!" /></div>
 <br>
 
 ##
 
-<div align="center">
 <br>
 <h3>🦄 Worked with</h3>
-<br>
-front-end
-<br><br>
+<h6>front-end</h6>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="5%" title="HTML5" alt="HTML5" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="5%" title="CSS3" alt="CSS3" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="5%" title="JavaScript" alt="JavaScript" />&nbsp;&nbsp;
@@ -24,14 +23,12 @@ front-end
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="5%" title="Bootstrap" alt="Bootstrap" />&nbsp;&nbsp;
 <img src="https://gitlab.com/uploads/-/system/project/avatar/28744088/favicon.ico?width=48" width="5%" title="Quasar" alt="Quasar" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="5%" title="Material-UI" alt="Material-UI" />&nbsp;&nbsp;
-<br><br>
-back-end
-<br><br>
+<br>
+<h6>back-end</h6>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="5%" title="PHP" alt="PHP" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="5%" title="PostgreSQL" alt="PostgreSQL" />&nbsp;&nbsp;
-<br><br>
-tools & other
-<br><br>
+<br>
+<h6>tools & other</h6>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="5%" title="Figma" alt="Figma" />&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" width="5%" title="DBeaver" alt="DBeaver" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="5%" title="GitLab" alt="GitLab" />&nbsp;&nbsp;
@@ -46,14 +43,13 @@ tools & other
 <img src="https://testing-library.com/img/octopus-128x128.png" width="5%" title="React Testing Library" alt="React Testing Library" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="5%" title="Adobe XD" alt="Adobe XD" />
 <br><br>
-</div>
 
 ##
 
 <br>
-<div align="center">
 <h3>🔮 Github stats</h3>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true&username=Thais95" height="150" alt="stats graph"  />&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=true&username=Thais95" height="150" alt="languages graph"  />
+<br>
 </div>
