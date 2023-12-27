@@ -16,13 +16,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="5%" title="CSS3" alt="CSS3" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="5%" title="JavaScript" alt="JavaScript" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="5%" title="TypeScript" alt="TypeScript" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="5%" title="Sass" alt="Sass" />&nbsp;&nbsp;
+<br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="5%" title="Vue.js" alt="Vue.js" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="5%" title="React" alt="React" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="5%" title="Sass" alt="Sass" />&nbsp;&nbsp;
-<img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" width="5%" title="Styled-Components" alt="Styled-Components" />&nbsp;&nbsp;
+<img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" width="3.8%" title="Astro" alt="Astro" />&nbsp;&nbsp;
+<br><br>
 <img src="https://gitlab.com/uploads/-/system/project/avatar/28744088/favicon.ico?width=48" width="5%" title="Quasar" alt="Quasar" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="4.9%" title="Vuetify" alt="Vuetify" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="5%" title="Material-UI" alt="Material-UI" />&nbsp;&nbsp;
+<br><br>
+<img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" width="5%" title="Styled-Components" alt="Styled-Components" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="5%" title="Bootstrap" alt="Bootstrap" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="5%" title="Tailwind CSS" alt="Tailwind CSS" />
 <br>
