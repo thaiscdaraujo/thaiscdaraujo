@@ -18,13 +18,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="5%" title="TypeScript" alt="TypeScript" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="5%" title="Sass" alt="Sass" />
 <br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="5%" title="Vue.js" alt="Vue.js" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="5%" title="React" alt="React" />&nbsp;&nbsp;
-<img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" width="3.8%" title="Astro" alt="Astro" />
+<img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" width="3.8%" title="Astro" alt="Astro" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="5%" title="Vue.js" alt="Vue.js" />&nbsp;&nbsp;
+<img src="https://pinia.vuejs.org/logo.svg" width="4%" title="Pinia" alt="Pinia" />&nbsp;&nbsp;
+<img src="https://histoire.dev/logo.svg" width="5.4%" title="Histoire" alt="Histoire" />
 <br><br>
 <img src="https://gitlab.com/uploads/-/system/project/avatar/28744088/favicon.ico?width=48" width="5%" title="Quasar" alt="Quasar" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="4.9%" title="Vuetify" alt="Vuetify" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="5%" title="Material-UI" alt="Material-UI" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="5%" title="Material-UI" alt="Material-UI" />&nbsp;&nbsp;
+<img src="https://flowbite.com/docs/images/logo.svg" width="5%" title="Flowbite" alt="Flowbite" />
 <br><br>
 <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" width="5%" title="Styled-Components" alt="Styled-Components" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="5%" title="Bootstrap" alt="Bootstrap" />&nbsp;&nbsp;
