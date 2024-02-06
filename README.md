@@ -36,7 +36,8 @@
 <h6>back-end</h6>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="5%" title="PHP" alt="PHP" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="5%" title="Laravel" alt="Laravel" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="5%" title="PostgreSQL" alt="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="5%" title="PostgreSQL" alt="PostgreSQL" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="5%" title="Elasticsearch" alt="Elasticsearch" />
 <br><br>
 <h6>tools & other</h6>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="5%" title="Figma" alt="Figma" />&nbsp;&nbsp;
