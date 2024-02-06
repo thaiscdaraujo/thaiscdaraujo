@@ -31,11 +31,11 @@
 <br><br>
 <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" width="5%" title="Styled-Components" alt="Styled-Components" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="5%" title="Bootstrap" alt="Bootstrap" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="5%" title="Tailwind CSS" alt="Tailwind CSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="5%" title="Tailwind CSS" alt="Tailwind CSS" />
 <br><br>
 <h6>back-end</h6>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="5%" title="PHP" alt="PHP" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="5%" title="Laravel" alt="Laravel" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="5%" title="Laravel" alt="Laravel" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="5%" title="PostgreSQL" alt="PostgreSQL" />
 <br><br>
 <h6>tools & other</h6>
@@ -50,7 +50,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="5%" title="Redux" alt="Redux" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="5%" title="Jest" alt="Jest" />&nbsp;&nbsp;
 <img src="https://testing-library.com/img/octopus-128x128.png" width="5%" title="React Testing Library" alt="React Testing Library" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="5%" title="Adobe XD" alt="Adobe XD" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" width="5%" title="Adobe XD" alt="Adobe XD" />
 <br><br>
 
 ##
