@@ -27,9 +27,6 @@
 <img src="https://gitlab.com/uploads/-/system/project/avatar/28744088/favicon.ico?width=48" width="5%" title="Quasar" alt="Quasar" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="4.9%" title="Vuetify" alt="Vuetify" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="5%" title="Material-UI" alt="Material-UI" />&nbsp;&nbsp;
-<img src="https://flowbite.com/docs/images/logo.svg" width="5%" title="Flowbite" alt="Flowbite" />
-<br><br>
-<img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" width="5%" title="Styled-Components" alt="Styled-Components" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="5%" title="Bootstrap" alt="Bootstrap" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="5%" title="Tailwind CSS" alt="Tailwind CSS" />
 <br><br>
@@ -42,6 +39,7 @@
 <h6>tools & other</h6>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="5%" title="Figma" alt="Figma" />&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" width="5%" title="DBeaver" alt="DBeaver" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="5%" title="Grafana" alt="Grafana" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="5%" title="GitLab" alt="GitLab" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="5%" title="Git" alt="Git" />
 <br><br><br>
