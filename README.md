@@ -18,10 +18,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="5%" title="TypeScript" alt="TypeScript" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="5%" title="Sass" alt="Sass" />
 <br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ember/ember-original.svg" width="5%" title="Ember.js" alt="Ember.js" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="5%" title="React" alt="React" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="5%" title="Vue.js" alt="Vue.js" />&nbsp;&nbsp;
 <img src="https://pinia.vuejs.org/logo.svg" width="4%" title="Pinia" alt="Pinia" />&nbsp;&nbsp;
-<img src="https://socket.io/images/logo-dark.svg" width="5%" title="Socket.io" alt="Socket.io" />&nbsp;&nbsp;
 <img src="https://histoire.dev/logo.svg" width="5.4%" title="Histoire" alt="Histoire" />
 <br><br>
 <img src="https://gitlab.com/uploads/-/system/project/avatar/28744088/favicon.ico?width=48" width="5%" title="Quasar" alt="Quasar" />&nbsp;&nbsp;
@@ -40,6 +40,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="5%" title="Figma" alt="Figma" />&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" width="5%" title="DBeaver" alt="DBeaver" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="5%" title="Grafana" alt="Grafana" />&nbsp;&nbsp;
+<br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" width="5%" title="Bitbucket" alt="Bitbucket" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="5%" title="GitLab" alt="GitLab" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="5%" title="Git" alt="Git" />
 <br><br><br>
