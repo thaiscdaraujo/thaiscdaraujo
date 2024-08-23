@@ -34,6 +34,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="5%" title="PHP" alt="PHP" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="5%" title="Laravel" alt="Laravel" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="5%" title="PostgreSQL" alt="PostgreSQL" />&nbsp;&nbsp;
+<br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="5%" title="Python" alt="Python" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="5%" title="Django" alt="Django" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="5%" title="Elasticsearch" alt="Elasticsearch" />
 <br><br>
 <h6>tools & other</h6>
@@ -47,7 +50,6 @@
 <br><br><br>
 <h3>🌱 Had contact</h3>
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="5%" title="Python" alt="Python" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="5%" title="Redux" alt="Redux" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="5%" title="Jest" alt="Jest" />&nbsp;&nbsp;
 <img src="https://testing-library.com/img/octopus-128x128.png" width="5%" title="React Testing Library" alt="React Testing Library" />&nbsp;&nbsp;
