@@ -55,13 +55,3 @@
 <img src="https://testing-library.com/img/octopus-128x128.png" width="50px" title="React Testing Library" alt="React Testing Library" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" width="50px" title="Adobe XD" alt="Adobe XD" />
 <br><br>
-
-##
-
-<br>
-<h3>🔮 Github stats</h3>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true&username=Thais95" height="150" alt="stats graph"  />&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=true&username=Thais95" height="150" alt="languages graph"  />
-<br><br>
-</div>
