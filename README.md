@@ -6,8 +6,6 @@
 <br>
 <div><img height="157" width="200" src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif" title="Working!" /></div>
 
-<br>
-
 ##### <a href="https://github.com/thaisdaraujo">You can find my professional account here!</a>
   
 ##
