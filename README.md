@@ -34,6 +34,7 @@
 <img src="https://testing-library.com/img/octopus-128x128.png" width="50px" title="React Testing Library" alt="React Testing Library" />
 <br><br>
 <h4>Back-end</h4>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50px" title="Node.js" alt="Node.js" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px" title="Python" alt="Python" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50px" title="Django" alt="Django" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" title="PHP" alt="PHP" />&nbsp;&nbsp;
