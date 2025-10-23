@@ -38,14 +38,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50px" title="Django" alt="Django" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" title="PHP" alt="PHP" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="50px" title="Laravel" alt="Laravel" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" title="PostgreSQL" alt="PostgreSQL" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" title="MySQL" alt="MySQL" />&nbsp;&nbsp;
 <img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" width="50px" title="SQL Server" alt="SQL Server" />&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" width="50px" title="DBeaver" alt="DBeaver" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" title="MySQL" alt="MySQL" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" title="PostgreSQL" alt="PostgreSQL" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" width="50px" title="DynamoDB" alt="DynamoDB" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="50px" title="Elasticsearch" alt="Elasticsearch" />&nbsp;&nbsp;
+<img src="https://opensearch.org/wp-content/uploads/2025/01/opensearch_mark_default.png" width="50px" title="OpenSearch" alt="OpenSearch" />
 <br><br>
 <h4>Tools & other</h4>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" title="Figma" alt="Figma" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" width="50px" title="Adobe XD" alt="Adobe XD" />&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" width="50px" title="DBeaver" alt="DBeaver" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="50px" title="Grafana" alt="Grafana" />&nbsp;&nbsp;
 <img src="https://configcat.com/images/shared/configcat-logo-cat-canvas-800.png" width="50px" title="ConfigCat" alt="ConfigCat" />&nbsp;&nbsp;
 <img src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png" width="50px" title="GitHub" alt="GitHub" />&nbsp;&nbsp;
